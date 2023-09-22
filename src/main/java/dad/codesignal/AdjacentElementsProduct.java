@@ -1,6 +1,6 @@
 package dad.codesignal;
 
-public class adjacentElementsProduct {
+public class AdjacentElementsProduct {
 
     int solution(int[] inputArray) {
 
